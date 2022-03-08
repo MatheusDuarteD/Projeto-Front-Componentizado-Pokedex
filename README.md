@@ -8,5 +8,5 @@ Pode procurar pelo index do pokemon na pokedex ou pelo nome (em inglês)
  https://pokeapi.co/
  
  - **Imagens:**\
- **Loading:** https://dribbble.com/shots/2835314-Pokeball-Animation\
+ **Loading:** https://dribbble.com/shots/2835314-Pokeball-Animation \
  **Idle:** https://gifer.com/pt/Yg6z
