@@ -1,5 +1,5 @@
 # Projeto-Front-Componentizado-Pokedex
-Pokédex feita utilizando React e PokéAPI\
+Pokédex feita utilizando React e a PokéAPI\
 Ela retorna imagem e informações básicas do Pokemon pesquisado.\
 Pode procurar pelo index do pokemon ou pelo nome (em inglês)
 
